@@ -1,0 +1,1 @@
+This is kurniawan’s first git project!” and then save the file. 
